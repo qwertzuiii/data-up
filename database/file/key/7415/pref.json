@@ -1,0 +1,10 @@
+{
+	"PREFENCES": {
+		"MODE": {
+			"encryption": "True",
+			"decryption": "True"
+		},
+
+		"OVERHEAD_TITLE": "True"
+	}
+}
