@@ -1,0 +1,4 @@
+[GAME]
+name= none
+exe= exe_name.exe
+injector= in_gameinjectors.py
